@@ -8,14 +8,11 @@ This project was developed as part of a **Mobile SDE Intern assignment**, with a
 
 ## Submission Details
 
-* **Assignment Requirement:**
-  Push the working code to a public GitHub repository. Include a `README.md` explaining the architecture, libraries used, and steps to run the project. Additionally, provide the GitHub link along with a detailed screen recording of the app flow and a working APK.
+* **GitHub Repository:** https://github.com/Ad12-Ad/Groww-Assignment
 
-* **GitHub Repository:** [Insert Link Here]
+* **Screen Recording Video:** https://drive.google.com/file/d/1gkF2NCFRtNotixs-ITlNE6mavCsAFxYG/view?usp=sharing
 
-* **Screen Recording Video:** [Insert Link Here]
-
-* **Working APK:** [Insert Link Here]
+* **Working APK:** https://drive.google.com/file/d/1yCxxZTomPJOwkNvz0Tfpw6ea5qwmY5JC/view?usp=drive_link
 
 ---
 
